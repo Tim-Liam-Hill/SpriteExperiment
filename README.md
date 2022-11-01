@@ -6,7 +6,7 @@ A spontaneous experiment I decided to do after work one day after thinking about
 ---
 
 <p>
-One Thursday night after work, I decided that I needed to program a custom Sprite Program. So, using [Piskel](https://www.piskelapp.com/) I created a SpriteSheet of a Sumo Wrestler and wrote this [Processing](https://processing.org/) script to see if I could derive a working class that could be used in a video game to create and render Sprites. The reason behind choosing Processing was simple: its easy to use, I have some familiarity with it and I didn't want want to spend a huge amount of time on this proect.
+One Thursday night after work, I decided that I needed to program a custom Sprite Program. So, using [Piskel](https://www.piskelapp.com/) I created a SpriteSheet of a Sumo Wrestler and wrote this [Processing](https://processing.org/) script to see if I could derive a working class that could be used in a video game to create and render Sprites. My goal was to figure out how simple Sprite rendering could be acheived without having to consult any documentation/tutorials (hence the 'first principles' description). The reason behind choosing Processing was simple: its easy to use, I have some familiarity with it and I didn't want want to spend a huge amount of time on this project. 
 </p>
 
 
