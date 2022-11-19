@@ -18,7 +18,8 @@ class Sprite {
   protected PImage img; 
   protected int rowIndex;
   protected int columnIndex;
-  protected int numFrames;  //num frames in Sprite Sheet (total) -> isnt this just equal to spriteSheetNumColumns * spriteSheetNumRows?? 
+  protected int numFrames;  //num frames in Sprite Sheet (total) -> isnt this just equal to spriteSheetNumColumns * spriteSheetNumRows??  
+                            //Not necessarily: what if only 7 frames but dimensions are 4*8?Not sure if this happens often but I want to be prepared
   protected int spriteSheetNumColumns;
   protected int spriteSheetNumRows;
   protected int spriteSheetColumnLength;
